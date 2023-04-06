@@ -14,5 +14,7 @@ cv2.imshow("Gray Image", imgGray)
 cv2.imshow("Blur Image", imgBlur)
 cv2.imshow("Canny Image", imgCanny)
 cv2.imshow("Dialation Image", imgDialation)
+
 cv2.imshow("Eroded Image", imgEroded)
+
 cv2.waitKey(0)
